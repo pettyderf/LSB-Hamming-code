@@ -3,8 +3,8 @@
 
 <div align="center">
   
-  <img alt="GitHub (Pre-)Release Date" src="https://img.shields.io/github/release-date-pre/pettyderf/LSB-and-Hamming-code">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/pettyderf/LSB-and-Hamming-code">
+  <img alt="GitHub (Pre-)Release Date" src="https://img.shields.io/github/release-date-pre/pettyderf/LSB-Hamming-code">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/pettyderf/LSB-Hamming-code">
 
   [LSB-R and LSB-M](#lsb-r-and-lsb-m) •  
   [Hamming code](#hamming-code) • 
